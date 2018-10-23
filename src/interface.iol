@@ -1,3 +1,3 @@
 interface Myinterface{
-    OneWay:sendNumber(int)
+    OneWay: sendNumber(int)
 }
